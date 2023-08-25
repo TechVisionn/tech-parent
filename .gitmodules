@@ -1,0 +1,6 @@
+[submodule "tech-backend"]
+	path = tech-backend
+	url = https://github.com/TechVisionn/tech-backend.git
+[submodule "tech-frontend"]
+	path = tech-frontend
+	url = https://github.com/TechVisionn/tech-frontend.git
