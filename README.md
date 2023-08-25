@@ -11,6 +11,4 @@ git pull --recurse-submodules origin <branch_name>
 ```
 First of all, open ".env" file and configure the path of projects paste, as in the example below:
 ```
-
 [Git Submodules Documentation](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
-
