@@ -17,7 +17,7 @@
    <a href="#pencil2-challenge">Challenge</a> •
    <a href ="#dart-project-requirements"> Requirements </a> •
    <a href ="#hourglass_flowing_sand-delivery-planning"> Planning </a> •
-   <a href="#date-as-sprints">Sprints</a> •
+   <a href="#date-sprints">Sprints</a> •
    <a href ="#computer-technologies-used"> Technologies </a> •
    <a href ="#bulb-methodology-used"> Methodology </a> •
    <a href="#backlogs">Backlogs</a> •
@@ -112,7 +112,7 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 <br>
 
-## :date: As Sprints
+## :date: Sprints
 
 <img align="right" width="235" height="196" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/livro-lampada.png">
 
