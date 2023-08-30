@@ -1,9 +1,9 @@
-<h5 align="center"> <img src = "link" width="45" height="40" /> Team - Tech Vision | 6° BD </h5>
+<h5 align="center"> Team - Tech Vision | 6° BD </h5>
 
 <br>
 
 <p align="center">
-<img src ="link" width="250" height="250"/>
+<img src ="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/simbolo%20(sem%20fundo).png" width="250" height="250"/>
  </h3>
 <p align="center">
 
