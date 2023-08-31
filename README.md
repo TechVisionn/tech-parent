@@ -65,7 +65,7 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 ## :dart: Project Requirements
 
-<img align="right" width="256" height="210" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/lapis-papel.png">
+<img align="right" width="200" height="180" src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/edicao.png">
 
 **Functional Requirements**
   - [x] Model a relational spatial database from the Proagro tables;
@@ -96,7 +96,7 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 ## :hourglass_flowing_sand: Delivery Planning
 
-<img align="right" width="210" height="256" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/techNinjassDEV.png">
+<img align="right" width="230" height="200" src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/calendario.png">
 
 - [x] [Kickoff](https://github.com/TechVisionn/tech-parent/blob/main/docs/KickOff%20-%20Visiona.pdf) - 21/08/2023 to 28/08/2023
 
@@ -114,7 +114,7 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 ## :date: Sprints
 
-<img align="right" width="235" height="196" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/livro-lampada.png">
+<img align="right" width="200" height="196" src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/app-de-apresentacao-de-slides.png">
 
 🔖 SPRINT 1 ([Folder Link](https://github.com/TechVisionn/tech-parent/blob/main/sprints/sprint-1.md)): In Progress 🕗
 
@@ -128,7 +128,7 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 ## :computer: Technologies Used
 
-<img align="right" width="218" height="190" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/mesa-dev.png">
+<img align="right" width="218" height="190" src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/contracao-muscular.png">
 
 * **Database:** Microsoft Azure and MongoDB
 * **Backend:** Python
