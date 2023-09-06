@@ -130,7 +130,7 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 <img align="right" width="218" height="190" src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/contracao-muscular.png">
 
-* **Database:** Microsoft Azure and MongoDB
+* **Database:** MySQL and MongoDB
 * **Backend:** Python
 * **Front-end:** React
 * **Tools:** Visual Studio Code, GitHub.
