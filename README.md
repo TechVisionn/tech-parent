@@ -89,11 +89,6 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 <br>
 
-**:link: Click the link below to view the *Kanban* of team activities:**
-> [Kanban Projects GitHub](https://github.com/orgs/TechVisionn/projects/1)
-
-<br>
-
 ## :hourglass_flowing_sand: Delivery Planning
 
 <img align="right" width="230" height="200" src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/calendario.png">
@@ -109,6 +104,11 @@ Organization of a public Proagro database for quick queries and analysis in the 
 - [x] SPRINT 4 - 06/11/2023 to 26/11/2023
 
 - [x] Solutions Fair - 12/12/2023 at 7 pm
+
+<br>
+
+**:link: Click the link below to view the *Kanban* of team activities:**
+> [Kanban Projects GitHub](https://github.com/orgs/TechVisionn/projects/1)
 
 <br>
 
