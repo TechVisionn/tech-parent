@@ -18,9 +18,9 @@
    <a href ="#dart-project-requirements"> Requirements </a> •
    <a href ="#hourglass_flowing_sand-delivery-planning"> Planning </a> •
    <a href="#date-sprints">Sprints</a> •
-   <a href ="#computer-technologies-used"> Technologies </a> •
+   <a href ="#joystick-technologies-used"> Technologies </a> •
    <a href ="#bulb-methodology-used"> Methodology </a> •
-   <a href="#backlogs">Backlogs</a> •
+   <a href="#crystal_ball-backlogs">Backlogs</a> •
    <a href="#mortar_board-team">Team</a>
 </p>
 
@@ -126,7 +126,7 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 <br>
 
-## :computer: Technologies Used
+## :joystick: Technologies Used
 
 <img align="right" width="218" height="190" src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/contracao-muscular.png">
 
@@ -145,9 +145,13 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 <span id="backlogs">
 
-## :dart: Backlogs, Epics & User Stories
+## :crystal_ball: Backlogs
 
-<h1 align="center"> <img src = "" /></h1>
+<h1 align="center"> <img src = "https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/backlogs.png" /></h1>
+
+## :magic_wand: Epics and User Stories
+
+<h1 align="center"> <img src = "https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/%C3%89picos%20e%20Hist%C3%B3rias.png" /></h1>
 
 <br>
 
