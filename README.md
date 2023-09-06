@@ -20,7 +20,7 @@
    <a href="#date-sprints">Sprints</a> •
    <a href ="#joystick-technologies-used"> Technologies </a> •
    <a href ="#bulb-methodology-used"> Methodology </a> •
-   <a href="#crystal_ball-backlogs">Backlogs</a> •
+   <a href="#crystal_ball-product-and-sprint-backlog">Backlogs</a> •
    <a href="#mortar_board-team">Team</a>
 </p>
 
@@ -145,7 +145,7 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 <span id="backlogs">
 
-## :crystal_ball: Backlogs
+## :crystal_ball: Product and Sprint Backlog
 
 <h1 align="center"> <img src = "https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/backlogs.png" /></h1>
 
