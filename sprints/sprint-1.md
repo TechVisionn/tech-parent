@@ -20,8 +20,8 @@
 ## :dart: Sprint Goals
 The requirements (both customer and educational institution) covered for the first sprint are:
 - **RF 01:** Organize the data (.csv) provided by the customer.
-- **RF 02:** Model a relational spatial database that supports the project requirements.
-- **RF 02:** Define the entities and fields necessary to store the information of the plots, states.
+- **RF 02:** Model a spatial relational database from Proagro tables.
+- **RF 16:** Create a report with information about the terrain.
 - **RNF 15:** Documentation (Fatec Requirement)
     
 <br>
