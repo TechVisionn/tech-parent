@@ -86,6 +86,7 @@ Organization of a public Proagro database for quick queries and analysis in the 
 **Non-Functional Requirements**
   - [x] The site's response time must be below 1.5 minutes in 99.99% of requests;
   - [x] The application's query engine must generate trails in JSON format (optional);
+  - [x] Documentation (Fatec Requirement)
   - [x] The system must contain metrics to help observe its behavior: Qty of requests, response time, qty and % of failures when obtaining data from Golden Sources.<br><br>
 
 <br>
