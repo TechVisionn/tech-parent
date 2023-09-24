@@ -14,7 +14,7 @@
 <hr>
 
 <p align="center"> 
-   <a href="#pencil2-challenge">Challenge</a> •
+   <a href="#milky_way-challenge">Challenge</a> •
    <a href ="#dart-project-requirements"> Requirements </a> •
    <a href ="#hourglass_flowing_sand-delivery-planning"> Planning </a> •
    <a href="#date-sprints">Sprints</a> •
@@ -58,7 +58,21 @@ git pull --recurse-submodules origin <branch_name>
 
 <br>
 
-## :pencil2: Challenge
+## :pencil2: Problem
+
+The company requires the implementation of a Geographic Information System (GIS) to speed up analysis and improve internal processes. Although the data is available in the public sphere of ProAgro, we face challenges such as a lack of organization, the presence of sensitive information and an excess of data to be managed.
+
+(ProAgro is a federal government program aimed at agricultural financing for small and medium-sized Brazilian producers).
+
+<br>
+
+## :rocket: Solution
+
+We propose a comprehensive solution that involves the collection and refinement of public data from ProAgro, efficient restructuring of the database and the development of a personalized Geographic Information System (GIS), providing information in a simpler and more organized way for the user. This approach seeks to facilitate the understanding and analysis of data, contributing to improvements in the company's internal processes.
+
+<br>
+
+## :milky_way: Challenge
 
 Organization of a public Proagro database for quick queries and analysis in the Geographic Information System.
 
@@ -118,9 +132,9 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 <img align="right" width="200" height="196" src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/app-de-apresentacao-de-slides.png">
 
-🔖 SPRINT 1 ([Folder Link](https://github.com/TechVisionn/tech-parent/blob/main/sprints/sprint-1.md)): In Progress 🕗
+🔖 SPRINT 1 ([Folder Link](https://github.com/TechVisionn/tech-parent/blob/main/sprints/sprint-1.md)): Done ☑️ 
 
-🔖 SPRINT 2: Waiting 🏗️
+🔖 SPRINT 2: In Progress 🕗
 
 🔖 SPRINT 3: Waiting 🏗️
 
@@ -151,7 +165,7 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 <h1 align="center"> <img src = "https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/backlogs.png" /></h1>
 
-## :magic_wand: Epics and User Stories
+## :flying_saucer: Epics and User Stories
 
 <h1 align="center"> <img src = "https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/%C3%89picos%20e%20Hist%C3%B3rias.png" /></h1>
 
