@@ -34,7 +34,10 @@
 
 <br>
 
-<details open><summary>:computer: Project configuration</summary>
+<details>
+	
+<summary>:computer: Project configuration</summary>
+
 
 **Requirements:**
 
