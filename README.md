@@ -82,22 +82,22 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 <img align="right" width="200" height="180" src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/edicao.png">
 
-**Functional Requirements**
-  - [x] Model a spatial relational database from Proagro tables;
-  - [x] Plot the perimeter of the plots reported in the Proagro tables in the geographic information system;
-  - [x] Attribute relevant agricultural information to plots plotted in a geographic information system;
-  - [x] Cross-reference the Gleba’s spatial information with its location (Municipality and State);
-  - [x] Connect and consume the Visiona Vegetation Index Time Series API;
-  - [x] The Visiona API query must return a time series for each plot consulted;
-  - [x] Save consumed/queried time series in the database;
-  - [x] Develop a simple front end that shows the spatially distributed plots, a plot selection button, and the vegetation index graph;
-  - [x] The vegetation index time series must be presented by dates defined between 30 days before the planting date and 30 days after the harvest date informed in the Proagro tables and organized in the database.<br><br>
+**📌 Functional Requirements**
+- Model a spatial relational database from Proagro tables;
+- Plot the perimeter of the plots reported in the Proagro tables in the geographic information system;
+- Attribute relevant agricultural information to plots plotted in a geographic information system;
+- Cross-reference the Gleba’s spatial information with its location (Municipality and State);
+- Connect and consume the Visiona Vegetation Index Time Series API;
+- The Visiona API query must return a time series for each plot consulted;
+- Save consumed/queried time series in the database;
+- Develop a simple front end that shows the spatially distributed plots, a plot selection button, and the vegetation index graph;
+- The vegetation index time series must be presented by dates defined between 30 days before the planting date and 30 days after the harvest date informed in the Proagro tables and organized in the database.<br><br>
 
-**Non-Functional Requirements**
-  - [x] The site's response time must be below 1.5 minutes in 99.99% of requests;
-  - [x] The application's query engine must generate trails in JSON format (optional);
-  - [x] Documentation (Fatec Requirement)
-  - [x] The system must contain metrics to help observe its behavior: Qty of requests, response time, qty and % of failures when obtaining data from Golden Sources.<br><br>
+**📌 Non-Functional Requirements**
+- The site's response time must be below 1.5 minutes in 99.99% of requests;
+- The application's query engine must generate trails in JSON format (optional);
+- Documentation (Fatec Requirement)
+- The system must contain metrics to help observe its behavior: Qty of requests, response time, qty and % of failures when obtaining data from Golden Sources.<br><br>
 
 <br>
 
