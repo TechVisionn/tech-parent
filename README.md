@@ -83,19 +83,15 @@ Organization of a public Proagro database for quick queries and analysis in the 
 <img align="right" width="200" height="180" src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/edicao.png">
 
 **Functional Requirements**
-  - [x] Model a relational spatial database from the Proagro tables;
-  - [x] Cleaning sensitive data (LGPD);
-  - [x] Organize the data provided by the client;
-  - [x] Plotting the perimeter of the plots provided in the Proagro tables in a geographic information system;
-  - [x] Attribute relevant agricultural information to the plots in the geographic information system;
-  - [x] Cross-reference the land parcel's spatial information with its location (municipality and state);
-  - [x] Develop a button to select the gleba and return an information table (pop up) relating to the selected gleba;
-  - [x] Develop a button to select the area and return the vegetation index time series in graphical form;
-  - [x] Connect to and consume Visiona's Vegetation Index Time Series API;
-  - [x] The query to Visiona's API should return a time series for each glebe consulted;
-  - [x] Save the consumed/consulted time series in a database;
-  - [x] Develop a simple front end that shows the glebes spatially distributed, a glebe selection button and the vegetation index graph;
-  - [x] The time series of the vegetation index should be presented by the dates defined between 30 days before the planting date and 30 days after the harvest date informed in the Proagro tables and organized in the database.<br><br>
+  - [x] Model a spatial relational database from Proagro tables;
+  - [x] Plot the perimeter of the plots reported in the Proagro tables in the geographic information system;
+  - [x] Attribute relevant agricultural information to plots plotted in a geographic information system;
+  - [x] Cross-reference the Gleba’s spatial information with its location (Municipality and State);
+  - [x] Connect and consume the Visiona Vegetation Index Time Series API;
+  - [x] The Visiona API query must return a time series for each plot consulted;
+  - [x] Save consumed/queried time series in the database;
+  - [x] Develop a simple front end that shows the spatially distributed plots, a plot selection button, and the vegetation index graph;
+  - [x] The vegetation index time series must be presented by dates defined between 30 days before the planting date and 30 days after the harvest date informed in the Proagro tables and organized in the database.<br><br>
 
 **Non-Functional Requirements**
   - [x] The site's response time must be below 1.5 minutes in 99.99% of requests;
