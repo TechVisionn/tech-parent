@@ -33,10 +33,26 @@ The requirements (both customer and educational institution) covered for the fir
     
 <span id="deliveries">
   
-## :heavy_check_mark: Deliveries
+## :heavy_check_mark: RF 01: Organize the data (.csv) provided by the customer.
+
+We format the data, creating a table with two main columns that refer to the NU_IDENTIFIER and all its associated plot indexes.
+
+One of the columns, called VL_VERTICES, contains the concatenation of all vertices related to that plot, presented separately by x and y coordinates.
+
+Initially, we are concentrating our efforts in the state of São Paulo, where we are collecting data exclusively related to soybean cultivation. This initial approach is due to the large volume of information available. We are willing to expand our geographic and cultural coverage according to the needs that arise throughout the project.
  
-(text)
-    
+<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/print-1.png" /></h1> 
+
+## :heavy_check_mark: RF 02: Model a spatial relational database from Proagro tables.
+
+We modeled the data using MySQL, which includes an extension for processing geospatial information. Our main focus was structuring the tables containing details of the plots, with an emphasis on separating the individual vertices of each plot and assigning a unique identifier (ID) as a reference.
+
+## :heavy_check_mark: RF 16: Create a report with information about the terrain.
+
+We have developed and made available the functionality that allows users to download a PDF report through the interface presented below. To access this resource, simply enter the identifier of the desired plot. Furthermore, the interface offers an intuitive and friendly experience, facilitating the process of generating and downloading PDF reports, contributing to better usability and efficiency of the system.
+
+<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/TelaHome-print.PNG" /></h1> 
+
 <br>
     
 <span id="burndown">
@@ -47,10 +63,10 @@ The monitoring of activities, the responsibility of the Scrum Master, is shown i
     
 <div align="center">
     
-![Burndown Chart](https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/burndown%2020.09.png)
+![Burndown Chart](https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/burndown%2024.09.PNG)
 </div>
 
-- Graph updated on 20/09/2023
+- Graph updated on 24/09/2023
   
 <br>
   
@@ -58,7 +74,7 @@ The monitoring of activities, the responsibility of the Scrum Master, is shown i
 
 <h1 align="center"> <img src = "https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/backlogs.png" /></h1>
 
-## :magic_wand: Epics and User Stories
+## :flying_saucer: Epics and User Stories
 
 <h1 align="center"> <img src = "https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/%C3%89picos%20e%20Hist%C3%B3rias.png" /></h1>
 
