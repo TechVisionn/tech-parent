@@ -21,7 +21,7 @@
 The requirements (both customer and educational institution) covered for the first sprint are:
 - **RF 01:** Organize the data (.csv) provided by the customer.
 - **RF 02:** Model a spatial relational database from Proagro tables.
-- **RF 16:** Create a report with information about the terrain.
+- **RF 14:** Create a report with information about the terrain.
 - **RNF 15:** Documentation (Fatec Requirement)
     
 <br>
