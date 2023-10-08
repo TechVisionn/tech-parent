@@ -1,8 +1,8 @@
-## 04/09/2023 to 24/09/2023
+## 25/09/2023 to 15/10/2023
 
 <span id="top">
 
-<h1 align="center">:bookmark: First Delivery - SPRINT 1</h1>
+<h1 align="center">:bookmark: Second Delivery - SPRINT 2</h1>
 
 <p align="center">
      <a href="#goals">Sprint goals</a> &nbsp |&nbsp &nbsp
@@ -12,17 +12,19 @@
 </p>
 
 <div align="center">
-  We have the challenge of organizing the data and modeling in the relational database.
+  In this sprint we have the challenge of plotting the plots in the front-end interface
 </div>
 
 <span id="goals">
     
 ## :dart: Sprint Goals
 The requirements (both customer and educational institution) covered for the first sprint are:
-- **RF 01:** Organize the data (.csv) provided by the customer.
-- **RF 02:** Model a spatial relational database from Proagro tables.
-- **RF 14:** Create a report with information about the terrain.
-- **RNF 15:** Documentation (Fatec Requirement)
+- **RF 06:** Develop a map that shows the distributed plots, and a plot selection button.
+- **RF 07:** Plot the perimeter of the plots reported in the Proagro tables.
+- **RF 08:** Display agricultural information relevant to plots of land plotted in the geographic information system. (popup)
+- **RF 09:** Develop a button to select the plot and return an informative table of the plot.
+- **RF 11:** Privacy Policy/Term of Acceptance.
+- **RF 12:** Cross-reference the Gleba’s spatial information with its location (Municipality and State).
     
 <br>
  
@@ -33,25 +35,9 @@ The requirements (both customer and educational institution) covered for the fir
     
 <span id="deliveries">
   
-## :heavy_check_mark: RF 01: Organize the data (.csv) provided by the customer.
+## :heavy_check_mark: Deliveries
 
-We format the data, creating a table with two main columns that refer to the NU_IDENTIFIER and all its associated plot indexes.
-
-One of the columns, called VL_VERTICES, contains the concatenation of all vertices related to that plot, presented separately by x and y coordinates.
-
-Initially, we are concentrating our efforts in the state of São Paulo, where we are collecting data exclusively related to soybean cultivation. This initial approach is due to the large volume of information available. We are willing to expand our geographic and cultural coverage according to the needs that arise throughout the project.
- 
-<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/print-1.png" /></h1> 
-
-## :heavy_check_mark: RF 02: Model a spatial relational database from Proagro tables.
-
-We modeled the data using MySQL, which includes an extension for processing geospatial information. Our main focus was structuring the tables containing details of the plots, with an emphasis on separating the individual vertices of each plot and assigning a unique identifier (ID) as a reference.
-
-## :heavy_check_mark: RF 16: Create a report with information about the terrain.
-
-We have developed and made available the functionality that allows users to download a PDF report through the interface presented below. To access this resource, simply enter the identifier of the desired plot. Furthermore, the interface offers an intuitive and friendly experience, facilitating the process of generating and downloading PDF reports, contributing to better usability and efficiency of the system.
-
-<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/TelaHome-print.PNG" /></h1> 
+(text)
 
 <br>
     
@@ -63,10 +49,10 @@ The monitoring of activities, the responsibility of the Scrum Master, is shown i
     
 <div align="center">
     
-![Burndown Chart](https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/burndown%2024.09.PNG)
+![Burndown Chart](https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/burndown%2009.10.png)
 </div>
 
-- Graph updated on 24/09/2023
+- Graph updated on 09/10/2023
   
 <br>
   
