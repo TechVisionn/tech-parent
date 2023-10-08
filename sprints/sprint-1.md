@@ -72,11 +72,11 @@ The monitoring of activities, the responsibility of the Scrum Master, is shown i
   
 ## :crystal_ball: Product and Sprint Backlog
 
-<h1 align="center"> <img src = "https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/backlogs.png" /></h1>
+<h1 align="center"> <img src = "https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/English%20Backlog.png" /></h1>
 
 ## :flying_saucer: Epics and User Stories
 
-<h1 align="center"> <img src = "https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/%C3%89picos%20e%20Hist%C3%B3rias.png" /></h1>
+<h1 align="center"> <img src = "https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/English%20Epic%20and%20Historys.png" /></h1>
 
 <br>
   
