@@ -1,8 +1,8 @@
-## 25/09/2023 to 15/10/2023
+## 16/10/2023 to 05/11/2023
 
 <span id="top">
 
-<h1 align="center">:bookmark: Second Delivery - SPRINT 2</h1>
+<h1 align="center">:bookmark: Third Delivery - SPRINT 3</h1>
 
 <p align="center">
      <a href="#goals">Sprint goals</a> &nbsp |&nbsp &nbsp
@@ -34,31 +34,11 @@ The requirements (both customer and educational institution) covered for the fir
 <br>
     
 <span id="deliveries">
+
+## :heavy_check_mark: Deliveries
+
+(texto)
   
-## :heavy_check_mark: RF 06: Develop a map that shows the distributed plots, and a plot selection button.
-
-We created the front-end to display plots of land plotted on the GIS map. This is a crucial step in achieving the project's objectives, allowing effective analysis of ProAgro's geospatial data and contributing to informed decision-making and improvements in the company's internal processes.
-
-The requirements below were met, according to development.
-
-:heavy_check_mark: RF 07: Plot the perimeter of the plots reported in the Proagro tables.
-
-:heavy_check_mark: RF 08: Display agricultural information relevant to plots of land plotted in the geographic information system. (popup)
-
-:heavy_check_mark: RF 09: Develop a button to select the plot and return an informative table of the plot.
-
-:heavy_check_mark: RF 12: Cross-reference the Gleba’s spatial information with its location (Municipality and State).
- 
-<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/mapa-glebas.PNG" /></h1> 
-
-## :heavy_check_mark: RF 11: Create login and user registration with terms of use (LGPD).
-
-A login screen was developed that allows users to authenticate securely. Elements include fields for entering the username, email, and password.
-
-Now the system asks users to accept the terms of use before completing the login process.
- 
-<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/tela%20de%20login%20e%20cadastro.PNG" /></h1> 
-
 <br>
     
 <span id="burndown">
@@ -69,10 +49,10 @@ The monitoring of activities, the responsibility of the Scrum Master, is shown i
     
 <div align="center">
     
-![Burndown Chart](https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/burndown%2015.10.png)
+![Burndown Chart](https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/burndown%2026.10.png)
 </div>
 
-- Graph updated on 15/10/2023
+- Graph updated on 26/10/2023
   
 <br>
   
