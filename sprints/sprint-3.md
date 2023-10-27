@@ -12,19 +12,19 @@
 </p>
 
 <div align="center">
-  In this sprint we have the challenge of plotting the plots in the front-end interface
+  In this sprint we have the challenge of connecting with the Visiona API to consume the time series and display the data in the front-end when clicking on the field.
 </div>
 
 <span id="goals">
     
 ## :dart: Sprint Goals
 The requirements (both customer and educational institution) covered for the first sprint are:
-- **RF 06:** Develop a map that shows the distributed plots, and a plot selection button.
-- **RF 07:** Plot the perimeter of the plots reported in the Proagro tables.
-- **RF 08:** Display agricultural information relevant to plots of land plotted in the geographic information system. (popup)
-- **RF 09:** Develop a button to select the plot and return an informative table of the plot.
+- **RF 03:** Connect and consume the Visiona Vegetation Index Time Series API.
+- **RF 04:** The API query must return a time series for each area queried.
+- **RF 05:** Save the consumed/queried time series in the database.
+- **RF 10:** Develop a button to select the plot and return the time series of vegetation indices in graphic form.
 - **RF 11:** Privacy Create login and user registration with terms of use (LGPD).
-- **RF 12:** Cross-reference the Gleba’s spatial information with its location (Municipality and State).
+- **RF 13:** The vegetation index time series must be presented using previously pre-defined dates.
     
 <br>
  
