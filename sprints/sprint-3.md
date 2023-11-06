@@ -65,9 +65,7 @@ We are saving the json time series data from the API in the MySQL database, wher
 
 ## :heavy_check_mark: RF 13: The vegetation index time series must be presented using previously pre-defined dates.
 
-The data provided in the API are time series of reflectance values in different spectral bands for different dates. Each dataset corresponds to a specific satellite platform
-
-The dates are pre-defined in the time series model, as follows:
+The data provided in the API are time series of reflectance values in different spectral bands for different dates. Each dataset corresponds to a specific satellite platform, the dates are pre-defined in the time series model, as follows:
 
 - dt_antes = use the date 30 days before possible planting (from the table modeled by you)
 - dt_depois = use the date 30 days after the possible harvest (from the table modeled by you)
