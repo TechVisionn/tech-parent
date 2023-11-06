@@ -45,22 +45,43 @@ The requirements below were met, according to development.
 :heavy_check_mark: RF 03: Connect and consume the Visiona Vegetation Index Time Series API.
 
 :heavy_check_mark: RF 10: Develop a button to select the plot and return the time series of vegetation indices in graphic form.
-
-:heavy_check_mark: RF 13: The vegetation index time series must be presented using previously pre-defined dates.
  
 <h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/s%C3%A9rietemporalprint.jpg" /></h1> 
+
+NDVI ranges from -1 to +1, where:
+- Values close to +1 indicate areas of healthy and dense vegetation.
+- Values close to -1 indicate areas with little or no vegetation.
+- Values close to 0 represent areas with bare soil or bodies of water.
+
+NDVI is widely used in natural resource monitoring, land use studies, agricultural crop monitoring, environmental change detection, and ecology studies, among others.
+
+<br>
 
 ## :heavy_check_mark: RF 05: Save the consumed/queried time series in the database
 
 We are saving the json time series data from the API in the MySQL database, where a table was created for this purpose, so that the system can consume it directly from the bank without having to make requests to the client's API, due to consumption limitations.
+
+<br>
+
+## :heavy_check_mark: RF 13: The vegetation index time series must be presented using previously pre-defined dates.
+
+The data provided in the API are time series of reflectance values in different spectral bands for different dates. Each dataset corresponds to a specific satellite platform
+
+The dates are pre-defined in the time series model, as follows:
+
+- dt_antes = use the date 30 days before possible planting (from the table modeled by you)
+- dt_depois = use the date 30 days after the possible harvest (from the table modeled by you)
+- harvest = 1
+- filter = whitaker
+- geom = geometry/coordinate of the plot
+
+<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/s%C3%A9rietemporalmodel.jpg" /></h1> 
 
 ## :heavy_check_mark: RF 14: Display all plots of land in the state of São Paulo.
 
 As agreed with the client, we are plotting all soybean plots in the state of São Paulo in this sprint.
 
 <h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/glebassp.jpg" /></h1> 
-  
-<br>
     
 <span id="burndown">
     
