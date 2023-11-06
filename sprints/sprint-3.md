@@ -25,6 +25,7 @@ The requirements (both customer and educational institution) covered for the fir
 - **RF 10:** Develop a button to select the plot and return the time series of vegetation indices in graphic form.
 - **RF 11:** Privacy Create login and user registration with terms of use (LGPD).
 - **RF 13:** The vegetation index time series must be presented using previously pre-defined dates.
+- **RF 14:** Display all plots of land in the state of São Paulo.
     
 <br>
  
@@ -35,9 +36,29 @@ The requirements (both customer and educational institution) covered for the fir
     
 <span id="deliveries">
 
-## :heavy_check_mark: Deliveries
+## :heavy_check_mark: RF 04: The API query must return a time series for each area queried
 
-(texto)
+Using the API provided by the client, we consumed the data and created an AI model that makes variations based on the Normalized Difference Vegetation Index (NDVI) is an index used to measure the health and density of vegetation through images of satellite, helping to monitor activities and make decisions related to crop management.
+
+The requirements below were met, according to development.
+
+:heavy_check_mark: RF 03: Connect and consume the Visiona Vegetation Index Time Series API.
+
+:heavy_check_mark: RF 10: Develop a button to select the plot and return the time series of vegetation indices in graphic form.
+
+:heavy_check_mark: RF 13: The vegetation index time series must be presented using previously pre-defined dates.
+ 
+<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/s%C3%A9rietemporalprint.jpg" /></h1> 
+
+## :heavy_check_mark: RF 05: Save the consumed/queried time series in the database
+
+We are saving the json time series data from the API in the MySQL database, where a table was created for this purpose, so that the system can consume it directly from the bank without having to make requests to the client's API, due to consumption limitations.
+
+## :heavy_check_mark: RF 14: Display all plots of land in the state of São Paulo.
+
+As agreed with the client, we are plotting all soybean plots in the state of São Paulo in this sprint.
+
+<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/glebassp.jpg" /></h1> 
   
 <br>
     
