@@ -18,7 +18,7 @@
 <span id="goals">
     
 ## :dart: Sprint Goals
-The requirements (both customer and educational institution) covered for the first sprint are:
+The requirements (both customer and educational institution) covered for the fourth sprint are:
 - **RF 15:** Front-end (user experience) UX/UI improvements
 - **RF 16:** Adjust recent dates in the time series according to the API
 - **RF 17:** Implementation of 2 LGPD themes in the back-end
