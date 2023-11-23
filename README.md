@@ -116,7 +116,7 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 - [x] [SPRINT 3](https://github.com/TechVisionn/tech-parent/blob/main/sprints/sprint-3.md) - 16/10/2023 to 05/11/2023
 
-- [x] SPRINT 4 - 06/11/2023 to 26/11/2023
+- [x] [SPRINT 4](https://github.com/TechVisionn/tech-parent/blob/main/sprints/sprint-4.md) - 06/11/2023 to 26/11/2023
 
 - [x] Solutions Fair - 12/12/2023 at 7 pm
 
@@ -137,7 +137,7 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 🔖 SPRINT 3: ([Folder Link](https://github.com/TechVisionn/tech-parent/blob/main/sprints/sprint-3.md)): Done ☑️
 
-🔖 SPRINT 4: In Progress 🕗
+🔖 SPRINT 4: ([Folder Link](https://github.com/TechVisionn/tech-parent/blob/main/sprints/sprint-4.md)): In Progress 🕗
 
 <br>
 
