@@ -18,7 +18,7 @@
 <span id="goals">
     
 ## :dart: Sprint Goals
-The requirements (both customer and educational institution) covered for the first sprint are:
+The requirements (both customer and educational institution) covered for the third sprint are:
 - **RF 03:** Connect and consume the Visiona Vegetation Index Time Series API.
 - **RF 04:** The API query must return a time series for each area queried.
 - **RF 05:** Save the consumed/queried time series in the database.
