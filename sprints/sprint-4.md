@@ -1,8 +1,8 @@
-## 16/10/2023 to 05/11/2023
+## 06/11/2023 to 26/11/2023
 
 <span id="top">
 
-<h1 align="center">:bookmark: Third Delivery - SPRINT 3</h1>
+<h1 align="center">:bookmark: Fourth Delivery - SPRINT 4</h1>
 
 <p align="center">
      <a href="#goals">Sprint goals</a> &nbsp |&nbsp &nbsp
@@ -12,20 +12,17 @@
 </p>
 
 <div align="center">
-  In this sprint we have the challenge of connecting with the Visiona API to consume the time series and display the data in the front-end when clicking on the field.
+  In this sprint, we have the challenge of implementing improvements to the system interface and correcting the dates in the time series.
 </div>
 
 <span id="goals">
     
 ## :dart: Sprint Goals
 The requirements (both customer and educational institution) covered for the first sprint are:
-- **RF 03:** Connect and consume the Visiona Vegetation Index Time Series API.
-- **RF 04:** The API query must return a time series for each area queried.
-- **RF 05:** Save the consumed/queried time series in the database.
-- **RF 10:** Develop a button to select the plot and return the time series of vegetation indices in graphic form.
-- **RF 11:** Privacy Create login and user registration with terms of use (LGPD).
-- **RF 13:** The vegetation index time series must be presented using previously pre-defined dates.
-- **RF 14:** Display all plots of land in the state of São Paulo.
+- **RF 15:** Front-end (user experience) UX/UI improvements
+- **RF 16:** Adjust recent dates in the time series according to the API
+- **RF 17:** Implementation of 2 LGPD themes in the back-end
+- **RF 18:** Improvement in system performance
     
 <br>
  
@@ -36,50 +33,7 @@ The requirements (both customer and educational institution) covered for the fir
     
 <span id="deliveries">
 
-## :heavy_check_mark: RF 04: The API query must return a time series for each area queried
-
-Using the API provided by the client, we consumed the data and created an AI model that makes variations based on the Normalized Difference Vegetation Index (NDVI) is an index used to measure the health and density of vegetation through images of satellite, helping to monitor activities and make decisions related to crop management.
-
-The requirements below were met, according to development.
-
-:heavy_check_mark: RF 03: Connect and consume the Visiona Vegetation Index Time Series API.
-
-:heavy_check_mark: RF 10: Develop a button to select the plot and return the time series of vegetation indices in graphic form.
- 
-<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/s%C3%A9rietemporalprint.jpg" /></h1> 
-
-NDVI ranges from -1 to +1, where:
-- Values close to +1 indicate areas of healthy and dense vegetation.
-- Values close to -1 indicate areas with little or no vegetation.
-- Values close to 0 represent areas with bare soil or bodies of water.
-
-NDVI is widely used in natural resource monitoring, land use studies, agricultural crop monitoring, environmental change detection, and ecology studies, among others.
-
-<br>
-
-## :heavy_check_mark: RF 05: Save the consumed/queried time series in the database
-
-We are saving the json time series data from the API in the MySQL database, where a table was created for this purpose, so that the system can consume it directly from the bank without having to make requests to the client's API, due to consumption limitations.
-
-<br>
-
-## :heavy_check_mark: RF 13: The vegetation index time series must be presented using previously pre-defined dates.
-
-The data provided in the API are time series of reflectance values in different spectral bands for different dates. Each dataset corresponds to a specific satellite platform, the dates are pre-defined in the time series model, as follows:
-
-- dt_antes = use the date 30 days before possible planting (from the table modeled by you)
-- dt_depois = use the date 30 days after the possible harvest (from the table modeled by you)
-- harvest = 1
-- filter = whitaker
-- geom = geometry/coordinate of the plot
-
-<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/s%C3%A9rietemporalmodel.jpg" /></h1> 
-
-## :heavy_check_mark: RF 14: Display all plots of land in the state of São Paulo.
-
-As agreed with the client, we are plotting all soybean plots in the state of São Paulo in this sprint.
-
-<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/glebassp.jpg" /></h1> 
+(text)
     
 <span id="burndown">
     
@@ -89,10 +43,10 @@ The monitoring of activities, the responsibility of the Scrum Master, is shown i
     
 <div align="center">
     
-![Burndown Chart](https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/burndown%2005.11.png)
+![Burndown Chart](https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/burndown%2023.11.png)
 </div>
 
-- Graph updated on 05/11/2023
+- Graph updated on 23/11/2023
   
 <br>
   
