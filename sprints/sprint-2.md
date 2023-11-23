@@ -18,7 +18,7 @@
 <span id="goals">
     
 ## :dart: Sprint Goals
-The requirements (both customer and educational institution) covered for the first sprint are:
+The requirements (both customer and educational institution) covered for the second sprint are:
 - **RF 06:** Develop a map that shows the distributed plots, and a plot selection button.
 - **RF 07:** Plot the perimeter of the plots reported in the Proagro tables.
 - **RF 08:** Display agricultural information relevant to plots of land plotted in the geographic information system. (popup)
