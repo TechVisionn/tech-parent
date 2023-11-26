@@ -33,7 +33,31 @@ The requirements (both customer and educational institution) covered for the fou
     
 <span id="deliveries">
 
+## :heavy_check_mark: RF 15: Front-end (user experience) UX/UI improvements
+
 (text)
+
+## :heavy_check_mark: RF 16: Adjust recent dates in the time series according to the API
+
+(text)
+
+## :heavy_check_mark: RF 17: Terms of use modeling (LGPD)
+
+Terms of use modeling for LGPD validation was implemented, including a detailed explanation of the servers as shown below:
+
+- Server 1 is the main server where user information, term and acceptance history are stored.
+
+- Server 2 is where the system's inactive users table is located. Whenever the application is started, a validation is performed on this table to ensure that all users present on Server 1 are valid.
+ 
+<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/modelagem-techvision.jpeg" /></h1> 
+
+## :heavy_check_mark: RF 18: Improvement in system performance
+
+We have implemented significant enhancements in Redis, specifically aimed at optimizing the retrieval of information regarding plots on the front end of the GIS project. This effort is part of a comprehensive approach to achieve efficiency in the analysis of data from ProAgro, a governmental program providing agricultural financing for small and medium-sized Brazilian producers.
+
+The initiative encompasses various stages, starting from the collection and efficient refinement of ProAgro's public data, followed by the optimized restructuring of the database and the custom development of the GIS. This approach aims not only to simplify but also to organize information, providing users with a more straightforward understanding and facilitating data analysis.
+
+Particular emphasis is placed on the organization of ProAgro's public database, designed to enable quick queries and efficient analyses in the Geographic Information System (GIS). As a result, accessing information about plots on the front end of the project becomes more agile, contributing to a more efficient and effective user experience.
     
 <span id="burndown">
     
@@ -43,10 +67,10 @@ The monitoring of activities, the responsibility of the Scrum Master, is shown i
     
 <div align="center">
     
-![Burndown Chart](https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/burndown%2023.11.png)
+![Burndown Chart](https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/burndown%2026.11.png)
 </div>
 
-- Graph updated on 23/11/2023
+- Graph updated on 26/11/2023
   
 <br>
   
