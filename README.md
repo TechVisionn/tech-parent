@@ -137,7 +137,7 @@ Organization of a public Proagro database for quick queries and analysis in the 
 
 🔖 SPRINT 3: ([Folder Link](https://github.com/TechVisionn/tech-parent/blob/main/sprints/sprint-3.md)): Done ☑️
 
-🔖 SPRINT 4: ([Folder Link](https://github.com/TechVisionn/tech-parent/blob/main/sprints/sprint-4.md)): In Progress 🕗
+🔖 SPRINT 4: ([Folder Link](https://github.com/TechVisionn/tech-parent/blob/main/sprints/sprint-4.md)): Done ☑️
 
 <br>
 
