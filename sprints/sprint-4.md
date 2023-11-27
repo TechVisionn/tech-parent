@@ -35,11 +35,15 @@ The requirements (both customer and educational institution) covered for the fou
 
 ## :heavy_check_mark: RF 15: Front-end (user experience) UX/UI improvements
 
-(text)
+We implemented a crucial improvement in the project by improving the time series graph in the front-end interface, using React. The update provides a more intuitive visualization, making it easier to understand and analyze the data. This improvement not only improves technical functionality, but also the user experience, making information more accessible and understandable.
+
+<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/serietemporal-front.jpg" /></h1>
 
 ## :heavy_check_mark: RF 16: Adjust recent dates in the time series according to the API
 
-(text)
+We have corrected the dates in the API to ensure that we obtain the most recent data on consumption. We made adjustments to the API to solve identified problems, keeping the parameters unchanged, however, the definition of dt_before and dt_after was modified for greater efficiency.
+
+<h1 align="center"> <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/serietemporal-codigo.jpg" /></h1>
 
 ## :heavy_check_mark: RF 17: Terms of use modeling (LGPD)
 
